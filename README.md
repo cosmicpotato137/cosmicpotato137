@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macintyre Sunde</h1>
 <h3 align="center">A developer from Philadelphia</h3>
 
-- 🔭 I’m currently working on [Shader Engine, a render pipeline for experimenting with GLSL.](https://github.com/cosmicpotato137/shader-engine)
+- 🔭 I’m currently working on [Shader Engine, a render pipeline for experimenting with GLSL.](https://github.com/cosmicpotato137/shader-engine).
 
 - 🌱 I’m currently learning **Robotics, CAD, and electrical engineering**!
 
@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/cosmicpotato137?tab=repositories).
 
-- 📫 How to reach me: **imacsunde@gmail.com**
+- 📫 Reach out at **imacsunde@gmail.com**.
 
 - 📄 Here's a link to my [CV](https://github.com/cosmicpotato137/My-CV)
-
-- ⚡ Fun fact **I can ride a unicycle!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
