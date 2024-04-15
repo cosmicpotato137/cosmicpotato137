@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Robotics, CAD, and electrical engineering**!
 
-- 👯 I’m looking to collaborate on **Anything in the computer graphics or technical art related.**
+- 👯 I’m looking to collaborate on **Anything in the realm of computer graphics or technical art.**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/cosmicpotato137?tab=repositories).
 
