@@ -1,8 +1,3 @@
----
-title: Home
-page_icon: resources/images/maple-leaf-autumn-2.png
----
-
 **Hi, my name is Macintyre Sunde.** I am a Philly based Software Engineer currently employed at [[Fullstack Engineer for Integrated Reality Labs|Integrated Reality Labs]]. I primarily work across the full stack, with recent experience in Java, Spring Framework, Python, Django, MySQL, Google Cloud suite, and React Native.
 
 You can find what I've been working on recently in the [[Timeline]], or view my resume <a href="resources/documents/Macintyre Sunde Resume 2026.pdf" class="internal-link" target="_blank">here</a>.
