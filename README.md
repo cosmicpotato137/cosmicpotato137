@@ -1,4 +1,4 @@
-**Hi, my name is Macintyre Sunde.** I am a Philly based Software Engineer currently employed at [Integrated Reality Labs](https://portfolio.cilantro.cc/fullstack-engineer-for-integrated-reality-labs). I primarily work across the full stack, with recent experience in Java, Spring Framework, Python, Django, MySQL, Google Cloud suite, and React Native.
+**Hi, my name is Macintyre Sunde.** I am a Philly based Software Engineer currently employed at [Integrated Reality Labs](https://portfolio.cilantro.cc/work/fullstack-engineer-for-integrated-reality-labs). I primarily work across the full stack, with recent experience in Java, Spring Framework, Python, Django, MySQL, Google Cloud suite, and React Native.
 
 You can find what I've been working on recently in my [Timeline](https://portfolio.cilantro.cc/timeline), or view my resume [here](https://portfolio.cilantro.cc/resources/documents/macintyre-sunde-resume-2026.pdf).
 
